@@ -67,5 +67,9 @@ hardware supported by the Quick2Wire libraries with minor modification.
 2) Start the rpac.py script by running start.sh, which configures the
     requisite environment variables for you:
 
-    ./start.sh
+    # NOTE THAT THIS DOES NOT NORMALLY DISPLAY ANY OUTPUT
+    ./start.sh    
+    
+    In a separate session, run 'less rpac.log' to see what the
+    system is doing
 
